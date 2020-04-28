@@ -1,24 +1,39 @@
-# README
+## Travel Photo Pinning App
+live site: https://herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Technology
+- React
+- Redux
+- Ruby on Rails
+- Ruby
+- CSS
+- HTML
 
-Things you may want to cover:
+### Motivation
+This application aims at the web product which truly dedicated for the travel photos and their cherished memory.
 
-* Ruby version
+It uses react/redux and store/state model to control data entry update seemlessly at frontend level.
 
-* System dependencies
+It uses Ruby on Rails as the backend framework to manage the serverside controller and database model to communicate with the frontend.
 
-* Configuration
+User can organize their travel photos under different categories and retrieve them in great ease.
 
-* Database creation
+This is an upgrade version of previous rails app, TravelPin.
 
-* Database initialization
+### Features
+- User Account also with Google and Facebook Authentication 
+- Upload Photos
+- Edit, Delete
+- Locate the Destination on the Map
+- Search photos
+- Photo sending or emailing function to friends
+- Use other tech tools run concurrently with Ruby on Rails like React and Redux
+- Interconnection with google map
 
-* How to run the test suite
+### Future Features to Come
 
-* Services (job queues, cache servers, search engines, etc.)
+Weather api to put the weather on the day of the trip
 
-* Deployment instructions
+### License
 
-* ...
+MIT © Justin K Lee
